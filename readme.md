@@ -1,3 +1,3 @@
 # kokoa clone jay update
 
-CSS got much better
+HTML & CSS are so much fun!
